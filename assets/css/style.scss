@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background: none; 
+}
+
 header {
   text-align: center;
 }
