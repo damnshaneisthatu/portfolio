@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#container {
+  background: none;
+}
+
 body {
   background: none; 
 }
